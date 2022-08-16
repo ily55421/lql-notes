@@ -5,5 +5,5 @@ module.exports = [
   { text: 'other',link: '/other/',},
   { text: 'three', link: '/three/' },
   { text: '留言板', link: '/message-board/' },
-  { text: '我的博客', link: 'https://wiki.eryajf.net' },
+  { text: '我的博客', link: 'https://github.com/ily55421' },
 ]
